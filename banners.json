@@ -141,10 +141,25 @@
       "banner": "voice_recorder.png",
       "banner_wide": "voice_recorder.png"
     },
+    "tx.monet.palette": {
+      "app_name": "Monet Palette",
+      "banner": "monet_palette.png",
+      "banner_wide": "monet_palette.png"
+    },
     "com.android.settings": {
       "app_name": "Settings",
       "banner": "settings.png",
       "banner_wide": "settings.png"
+    },
+    "com.windukk.potok": {
+      "app_name": "PoTok",
+      "banner": "potok.png",
+      "banner_wide": "potok.png"
+    },
+    "moe.shizuku.privileged.api": {
+      "app_name": "Shizuku",
+      "banner": "shizuku.png",
+      "banner_wide": "shizuku.png"
     }
   }
 }
