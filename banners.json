@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "packages": {
+    "com.android.chrome": {
+      "app_name": "Google Chrome",
+      "banner": "google_chrome.png",
+      "banner_wide": "google_chrome.png"
+    },
+    "org.mozilla.firefox": {
+      "app_name": "Firefox",
+      "banner": "browser.png",
+      "banner_wide": "browser.png"
+    },
+    "com.yandex.browser": {
+      "app_name": "Yandex Browser",
+      "banner": "browser.png",
+      "banner_wide": "browser.png"
+    },
+    "com.duckduckgo.mobile.android": {
+      "app_name": "DuckDuckGo",
+      "banner": "browser.png",
+      "banner_wide": "browser.png"
+    },
+    "com.android.browser": {
+      "app_name": "Browser",
+      "banner": "browser.png",
+      "banner_wide": "browser.png"
+    },
+    "com.sec.android.app.sbrowser": {
+      "app_name": "Samsung Internet",
+      "banner": "browser.png",
+      "banner_wide": "browser.png"
+    },
+    "com.google.android.apps.photos": {
+      "app_name": "Google Photos",
+      "banner": "google_photos.png",
+      "banner_wide": "google_photos.png"
+    },
+    "com.android.gallery3d": {
+      "app_name": "AOSP Gallery",
+      "banner": "gallery.png",
+      "banner_wide": "gallery.png"
+    },
+    "com.sec.android.gallery3d": {
+      "app_name": "Samsung Gallery",
+      "banner": "gallery.png",
+      "banner_wide": "gallery.png"
+    },
+    "com.samsung.android.gallery": {
+      "app_name": "Samsung Gallery",
+      "banner": "gallery.png",
+      "banner_wide": "gallery.png"
+    },
+    "com.miui.gallery": {
+      "app_name": "Xiaomi Gallery",
+      "banner": "gallery.png",
+      "banner_wide": "gallery.png"
+    },
+    "cn.xiaomi.gallery": {
+      "app_name": "Xiaomi Gallery (CN)",
+      "banner": "gallery.png",
+      "banner_wide": "gallery.png"
+    },
+    "com.google.android.calendar": {
+      "app_name": "Google Calendar",
+      "banner": "google_calendar.png",
+      "banner_wide": "google_calendar.png"
+    },
+    "com.android.calendar": {
+      "app_name": "Calendar",
+      "banner": "calendar.png",
+      "banner_wide": "calendar.png"
+    },
+    "com.samsung.android.calendar": {
+      "app_name": "Samsung Calendar",
+      "banner": "calendar.png",
+      "banner_wide": "calendar.png"
+    },
+    "com.google.android.deskclock": {
+      "app_name": "Google Clock",
+      "banner": "google_clock.png",
+      "banner_wide": "google_clock.png"
+    },
+    "com.android.deskclock": {
+      "app_name": "Clock",
+      "banner": "clock.png",
+      "banner_wide": "clock.png"
+    },
+    "com.sec.android.app.clockpackage": {
+      "app_name": "Samsung Clock",
+      "banner": "clock.png",
+      "banner_wide": "clock.png"
+    },
+    "com.google.android.apps.nbu.files": {
+      "app_name": "Files by Google",
+      "banner": "google_files.png",
+      "banner_wide": "google_files.png"
+    },
+    "com.android.documentsui": {
+      "app_name": "Files",
+      "banner": "files.png",
+      "banner_wide": "files.png"
+    },
+    "com.sec.android.app.myfiles": {
+      "app_name": "Samsung My Files",
+      "banner": "files.png",
+      "banner_wide": "files.png"
+    },
+    "com.miui.fileexplorer": {
+      "app_name": "Xiaomi File Explorer",
+      "banner": "files.png",
+      "banner_wide": "files.png"
+    },
+    "com.google.android.apps.youtube.music": {
+      "app_name": "YouTube Music",
+      "banner": "youtube_music.png",
+      "banner_wide": "youtube_music.png"
+    },
+    "com.android.music": {
+      "app_name": "Music",
+      "banner": "music.png",
+      "banner_wide": "music.png"
+    },
+    "com.sec.android.app.music": {
+      "app_name": "Samsung Music",
+      "banner": "music.png",
+      "banner_wide": "music.png"
+    },
+    "com.miui.player": {
+      "app_name": "Xiaomi Music",
+      "banner": "music.png",
+      "banner_wide": "music.png"
+    },
+    "com.android.soundrecorder": {
+      "app_name": "Voice Recorder",
+      "banner": "voice_recorder.png",
+      "banner_wide": "voice_recorder.png"
+    },
+    "com.sec.android.app.voicenote": {
+      "app_name": "Samsung Voice Recorder",
+      "banner": "voice_recorder.png",
+      "banner_wide": "voice_recorder.png"
+    },
+    "com.android.settings": {
+      "app_name": "Settings",
+      "banner": "settings.png",
+      "banner_wide": "settings.png"
+    }
+  }
+}
